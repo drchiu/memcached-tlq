@@ -1,9 +1,9 @@
 name              "memcached-tlq"
-maintainer        "Ben Dixon"
-maintainer_email  "ben@hillsbede.co.uk"
+maintainer        "Simon Chiu"
+maintainer_email  "skhchiu@gmail.com"
 description       "Simple memcached installation"
 version           "0.0.2"
 
-recipe "look_and_feel-tlq", "Installs memcached"
+recipe "memcached-tlq", "Installs memcached"
 
 supports "ubuntu"
